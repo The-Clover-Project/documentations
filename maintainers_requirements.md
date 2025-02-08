@@ -1,4 +1,4 @@
-![CLOVER](https://github.com/The-Clover-Project/.github/raw/main/banner2.png)
+![CLOVER](https://github.com/The-Clover-Project/.github/raw/main/banner9.png)
 
 ### Code of Conduct for Official Maintainers
 
